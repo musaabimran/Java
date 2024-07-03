@@ -68,14 +68,7 @@ public class Lesson6 {
         catch (FileNotFoundException e)
         {
             System.out.println("Sorry I couldn't find that file");
-        }
-
-        catch (IOException e) // Catches any IO Exception
-        {
-            System.out.println("An unknown IO Error Occured");
-        }
-
-        catch (Exception e)
+        } catch (Exception e)
         {
             System.out.println("I catch every exception");
         }
