@@ -1,9 +1,9 @@
 package Assignment_02;
 
-public class Book implements Media {
+public class Movie implements Media {
     private double price;
 
-    public Book(double price) {
+    public Movie(double price) {
         this.price = price;
     }
 
