@@ -1,0 +1,42 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "metadata": {
+        "price": 1500,
+        "categories": ["fantasy", "sci-fi"],
+        "isbn": 9780141182636,
+        "pages": 300
+        }
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "metadata": {
+        "price": 1500,
+        "categories": ["fantasy", "sci-fi", "horror"],
+        "isbn": 9780061120084,
+        "pages": 289
+        }
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "metadata": {
+        "price": 1500,
+        "categories": ["fantasy","sci-fi"],
+        "isbn": 9780451524935,
+        "pages": 280
+        }
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "metadata": {
+        "price": 1500,
+        "categories": ["fantasy", "romance"],
+        "isbn": 9780141439518,
+        "pages": 281
+        }
+    }
+]
